@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+	<head>
+        <css src="Dangs_WhatsAppChat::css/whatsapp-chat.css" />
+    </head>
+	<body>
+		<referenceContainer name="footer-container">
+			<block class="Magento\Framework\View\Element\Template" name="dangs_footer_update" 
+                template="Dangs_HelloModule::footer-update.phtml" cacheable="false">
+            </block>
+		</referenceContainer>
+	</body>
+</page>
