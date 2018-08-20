@@ -19,6 +19,9 @@ php bin/magento cache:clean
 php bin/magento setup:static-content:deploy
 ```
 
+## Screenshot
+![ScreenShot](https://github.com/dsasmita/magento2-hello-module/blob/master/screen-shot/category-product.png)
+
 ## Donation
 If you find this extension help you,  feel free to donate
 :)
