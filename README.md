@@ -21,6 +21,7 @@ php bin/magento setup:static-content:deploy
 
 ## Screenshot
 ![ScreenShot](https://github.com/dsasmita/magento2-hello-module/blob/master/screen-shot/category-product.png)
+![ScreenShot](https://github.com/dsasmita/magento2-hello-module/blob/master/screen-shot/footer.png)
 
 ## Donation
 If you find this extension help you,  feel free to donate
