@@ -6,3 +6,10 @@
  */
 
 echo $block->returnHello();
+?>
+
+<ul>
+<?php foreach ($block->getProductCollection() as $_product) : ?>
+	<li><?php echo $_product->getName(); ?></li>
+<?php endforeach;?>
+</ul>
